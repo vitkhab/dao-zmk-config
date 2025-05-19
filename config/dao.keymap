@@ -14,6 +14,7 @@
 #define ADJ 3
 
 &lt {
+    flavor = "hold-preferred";
     quick_tap_ms = <200>;
 };
 
